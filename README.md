@@ -34,7 +34,7 @@ This package is meant to accompany the "How to Homebrew Your New Nintendo 3DS (1
 
 ## Finalize Folder
 
-The "finalize" folder includes all the content mentioned above. You can find this folder seperately on GitHub, accessible through the following link: [finalize.zip](https://github.com/antonretro/Anton-Retro-New-3DS-Package/tree/main/3DS_Finalizing)
+The "finalize" folder includes all the content mentioned above. You can find this folder seperately on GitHub, accessible through the following link: [finalize.zip](https://github.com/antonretro/3DS_Finalizing)
 
 ## Disclaimer
 
